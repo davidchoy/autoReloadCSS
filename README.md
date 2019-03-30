@@ -10,4 +10,4 @@
 - Edit remotely
 
 # Example
-`autoReloadCSS('cool-style-sheet-name',1.1);`
+`autoReloadCSS('cool-style-sheet-id',1.1);`
